@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soccentric-joshua.github.io/sitemap.xml
